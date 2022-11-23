@@ -1,0 +1,19 @@
+Assignments as on date 18.11.2022
+
+1. Method Chaining
+2. User Defined Exception
+3. Try with resource
+4. Banking Application
+	a. Abstract Class
+	b. Exception (User Defined)
+	c. Enum
+	d. I/O operations
+	e. MAP Implementation
+	f. Stream
+	g. Lambda Expression
+	h. Validations(Login)
+	i. Optional Interface (Use in App)
+	j. Generics
+	k. Debugging Demo
+	l. java.util.Loging (Loger)
+	m. ver args
